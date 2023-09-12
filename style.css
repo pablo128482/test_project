@@ -1,0 +1,19 @@
+
+       
+        .bodyClass {
+            background-color: #f0f0f0; 
+            color: #333; 
+            font-family: Arial, sans-serif;
+
+        
+            background-size: 25% auto; 
+        }
+
+        h1 {
+            color: #6138F5;
+        }
+
+
+        form {
+            margin-top: 40px;
+        }
